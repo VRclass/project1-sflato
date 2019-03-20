@@ -1,5 +1,2 @@
-to set up project<br>
+.exe is inside of build files /
 
-> MAINPROJECT/project1-sflato <br>
-
-> open project1-sflato directory in unity this is the project
